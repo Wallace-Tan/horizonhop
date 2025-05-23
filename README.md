@@ -32,12 +32,12 @@ HorizonHop is a comprehensive game featuring character selection, various challe
    - Your project directory structure should look like this:
 
      ProjectRoot/
-       ├── java/
-       ├── aes.key
-       ├── userinfo.bin
-       └── src/
-           └── main/
-               └── resources/     <-- extracted resources go here
+      ├── java/
+      ├── aes.key
+      ├── userinfo.bin
+      └── src/
+          └── main/
+              └── resources/    <-- extracted resources go here
 
 #### 2. Running the Program:
 
