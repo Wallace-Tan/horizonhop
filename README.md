@@ -2,9 +2,13 @@
 
 An exciting JavaFX-based game designed to deliver a fun and interactive gaming experience with multiple levels and character choices.
 
+---
+
 ### 🔍 Overview
 
 HorizonHop is a comprehensive game featuring character selection, various challenging levels, and progress tracking—all wrapped in a user-friendly interface to maximize enjoyment.
+
+---
 
 ### ⚙️ How To Run
 
@@ -13,6 +17,8 @@ HorizonHop is a comprehensive game featuring character selection, various challe
 - Select your character (e.g., Bob or Alice).
 - Use arrow keys to navigate through levels and complete challenges.
 - Reach the treasure box to finish each level and earn rewards.
+
+---
 
 ### 📁 Resources
 
@@ -37,11 +43,15 @@ HorizonHop is a comprehensive game featuring character selection, various challe
 
    - Run the LandingPage.java file located in the `java` directory to start the game.
 
+---
+
 ### 🛠️ Dependencies & Requirements
 
 - Java Development Kit (JDK): Oracle OpenJDK 22.0.1
 - JavaFX: Compatible with JDK 22
 _Make sure your environment is set up with these to avoid runtime issues._
+
+---
 
 ### 🎯 Key Features
 
@@ -50,14 +60,20 @@ _Make sure your environment is set up with these to avoid runtime issues._
 - Progress tracking to save your achievements
 - Intuitive and engaging user interface
 
+---
+
 ### ❓ Troubleshooting
 
 - If resources don’t load, verify that the resources folder is correctly placed under src/main.
 - For login or registration problems, ensure your database setup is correct and input is valid.
 
+---
+
 ### 📞 Contact
 
 _For help or questions, email the project team at: wallacetan1125@gmail.com_
+
+---
 
 ##### 👨‍💻 Author
 
