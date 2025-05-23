@@ -25,10 +25,10 @@ HorizonHop is a comprehensive game featuring character selection, various challe
 #### 1. Resources Setup:
 
    - Due to file size constraints, resource files such as images and audio are hosted externally.
-   - [Download the zipped resource file here] (https://drive.google.com/file/d/13Ft6he7V-35i1z32_WW1p1zdAcOYE4uq/view?usp=sharing)
+   - [Download the zipped resource file here](https://drive.google.com/file/d/13Ft6he7V-35i1z32_WW1p1zdAcOYE4uq/view?usp=sharing)
    - After downloading, extract the zipped folder.
    - Place the extracted resource folder into your project directory at:
-     ...\HorizonHop\src\main\
+     `...\HorizonHop\src\main\`
    - Your project directory structure should look like this:
 ```
      ProjectRoot/
@@ -65,7 +65,7 @@ _Make sure your environment is set up with these to avoid runtime issues._
 
 ### ❓ Troubleshooting
 
-- If resources don’t load, verify that the resources folder is correctly placed under src/main.
+- If resources don’t load, verify that the resources folder is correctly placed under `src/main`.
 - For login or registration problems, ensure your database setup is correct and input is valid.
 
 ---
