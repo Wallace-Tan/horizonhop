@@ -50,6 +50,10 @@ HorizonHop is a comprehensive game featuring character selection, various challe
 
 - Java Development Kit (JDK): Oracle OpenJDK 22.0.1
 - JavaFX: Compatible with JDK 22
+- JavaFX Controls 22-ea+11
+- JavaFX FXML 22-ea+11
+- JavaFX Media 22-ea+11
+- JUnit 5.10.0
 - _Make sure your environment is set up with these to avoid runtime issues._
 
 ---
