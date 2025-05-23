@@ -30,7 +30,7 @@ HorizonHop is a comprehensive game featuring character selection, various challe
    - Place the extracted resource folder into your project directory at:
      ...\HorizonHop\src\main\
    - Your project directory structure should look like this:
-
+```
      ProjectRoot/
       ├── java/
       ├── aes.key
@@ -38,6 +38,7 @@ HorizonHop is a comprehensive game featuring character selection, various challe
       └── src/
           └── main/
               └── resources/    <-- extracted resources go here
+```
 
 #### 2. Running the Program:
 
